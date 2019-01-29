@@ -1,0 +1,32 @@
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\Acedia Loader [BETA].exe.config
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\Acedia Loader [BETA].exe
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\Acedia Loader [BETA].pdb
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\MetroFramework.Design.dll
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\MetroFramework.dll
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].csprojAssemblyReference.cache
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia_Loader__BETA_.Form1.resources
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia_Loader__BETA_.Form2.resources
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia_Loader__BETA_.Properties.Resources.resources
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].csproj.GenerateResource.cache
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].csproj.CoreCompileInputs.cache
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].csproj.CopyComplete
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].exe
+C:\Users\steal\source\repos\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].pdb
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\Acedia Loader [BETA].exe.config
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\Acedia Loader [BETA].exe
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\Acedia Loader [BETA].pdb
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\MetroFramework.Design.dll
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\MetroFramework.dll
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].csprojAssemblyReference.cache
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia_Loader__BETA_.Form1.resources
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia_Loader__BETA_.Form2.resources
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia_Loader__BETA_.Properties.Resources.resources
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].csproj.GenerateResource.cache
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].csproj.CoreCompileInputs.cache
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].csproj.CopyComplete
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].exe
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia Loader [BETA].pdb
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia_Loader__BETA_.Properties.res.resources
+C:\Users\steal\Desktop\Loader\Acedia Loader [BETA]\Acedia Loader [BETA]\obj\Debug\Acedia_Loader__BETA_.Properties.prot.resources
